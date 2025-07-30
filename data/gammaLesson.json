@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Gamma 1 (S)",
+    "description": "Practice on Prepositions",
+    "dataSet": "in on at by for with to from under over between through into onto off out of toward past across along around up down above below beneath beside behind next to near inside outside underneath upon before after during since until because of due to like unlike as than except amid among concerning regarding excluding including according to in spite of",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 2 (S)",
+    "description": "Practice on Pronouns (Personal, Reflexive, Demonstrative, etc.)",
+    "dataSet": "I you he she it we they myself yourself himself herself itself ourselves yourselves themselves mine yours his hers its ours theirs my your her our their this that these those someone somebody something anyone anybody anything everyone everybody everything no one nobody nothing each either neither one another others some any few many several",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 3 (S)",
+    "description": "Practice on Nouns (Countable, Uncountable, Collective, Abstract)",
+    "dataSet": "apple chair water air team happiness democracy idea book pen dog cat car school house city student teacher phone tree road bottle computer John India Amazon Paris Microsoft Sunday January Ganga Eiffel Tower Google gold silver wood cotton rice milk oil sand salt sugar family class flock crowd group committee audience army jury love freedom anger",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 4 (S)",
+    "description": "Practice on Adjectives (Descriptive, Quantitative, Possessive)",
+    "dataSet": "beautiful tall fast green few several my your their big small short long round square bright dark smooth rough noisy quiet cold hot young old rich poor clean dirty many much little some any all each every no one two hundred this that these those his her its our which what whose better best worse worst smarter taller stronger strongest happier lazy",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 5 (S)",
+    "description": "Practice on Verbs (Action, Linking, Modal)",
+    "dataSet": "run jump be seem feel can should must walk talk write read eat drink sleep drive sing dance swim think know learn teach bring take make do go come say tell find give play watch listen build break open close laugh cry buy sell start stop help use work cook grow choose win lose draw cut move wait arrive leave believe remember forget accept achieve admire",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 6 (S)",
+    "description": "Practice on Adverbs (Manner, Frequency, Degree)",
+    "dataSet": "quickly always very well here there slowly silently loudly easily happily sadly angrily badly beautifully bravely carefully carelessly clearly closely commonly extremely fairly fast finally fortunately frequently generally gently gradually greedily hard hardly honestly immediately incredibly instead just kindly late lazily likely maybe nearly never normally now",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 7 (S)",
+    "description": "Practice on Conjunctions (Coordinating, Subordinating, Correlative)",
+    "dataSet": "after, although, and, as, because, before, both, but, case, either, even, for, give, hardly, if, in, just, long, much, neither, no, nor, not, once, only, or, order, provided, rather, scarcely, since, so, soon, such, than, that, the, though, till, to, unless, until, when, whenever, where, wherever, whether, while, why, with, yet albeit lest meanwhile hence thus thereby otherwise",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 8 (S)",
+    "description": "Practice on Interjections (Exclamations and Emotional Responses)",
+    "dataSet": "wow, oh, ouch, hey, hooray, ah, alas, aha, uh, um, oops, yay, yikes, eek, ow, bravo, hello, hi, goodbye, huh, phew, ahem, gee, golly, gosh, whoa, duh, hmm, darn, whoops, eureka, shh, yippee, boo, ha, ha-ha, ugh, meh, woah, oh no, oh dear, oh well, yowza, oh boy, jeez, darn it, aah, wowza, whew, oof, yayee, oh my, goodness gracious, blimey, crikey, yow, ouff",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 9 (S)",
+    "description": "Subject-Verb Agreement",
+    "dataSet": "I It He She They We You runs go eats flies sings plays barks walk study read dance writes drives swims jump cook sleep shout laughs talks shines listen paint work smile teaches helps rings build watch speak clean paints again floats play write walks reads jumps fly studies grows travel swim climb crawl think imagine draw sketch create invent discover",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 10 (S)",
+    "description": "Tenses (Present, Past, Future, and their perfect and progressive forms)",
+    "dataSet": "am is are was were will be has have had will have is eating was playing shall be shall have can could may might must should would do does did being been having am being is being is dancing was being were being will be being has been have been had been will have been was walking have been can be could be may be might be must be should be",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 11 (W)",
+    "description": "Conditional Sentences (Zero, First, Second, Third)",
+    "dataSet": "If it rains, I will stay home. If I were you, I would study. If I had known, I would have called. If you study hard, you will pass. If he calls, I will answer. If she leaves early, she will catch the bus. If it gets cold, we will light a fire. If they invite me, I will go. If I were rich, I would travel the world. If I were taller, I would play basketball. If he were here, he would help us.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 12 (W)",
+    "description": "Direct and Indirect Speech (Reporting Verbs and Changes in Tenses)",
+    "dataSet": "He said, 'I am going'. He said 'He was going'. She said 'I am tired'. She said 'She was tired' He said 'I will help'. He said 'He would help'. They said 'We are coming'. They said 'They were coming'. She said 'I can dance'. She said 'She could dance'. He said 'I have finished'. He said 'He had finished'. They said 'We were late'. They said 'They had been late'. She said 'I was working'.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 13 (W)",
+    "description": "Articles (Definite and Indefinite)",
+    "dataSet": "a an the this that these those my your his her its our their each every either neither some any one two few several many much most all no another such what whose enough both fewest fewer least more most less latter former next last first own certain various respective particular numerous countless plenty half double triple several times multiple several kinds",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 14 (W)",
+    "description": "Active and Passive Voice (Forming and Using)",
+    "dataSet": "The cat eats the mouse The mouse is eaten by the cat. She writes a letter A letter is written by her. He reads the book The book is read by him. They play football Football is played by them. We watch a movie A movie is watched by us. I clean the room The room is cleaned by me. The chef cooks the meal The meal is cooked by the chef. The teacher explains the lesson The lesson is explained by the teacher.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 15 (W)",
+    "description": "Question Tags (Short Questions at the End of Statements)",
+    "dataSet": "You are coming, aren't you? He likes ice cream, doesn't he? She is happy isn’t she? They went home didn’t they? We have met before haven’t we? It’s raining isn’t it? You can swim can’t you? He won’t come will he? She doesn’t like coffee does she? They are ready aren’t they? I’m late aren’t I? He was angry wasn’t he? We should go shouldn’t we? You’d like that wouldn’t you?",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 16 (S)",
+    "description": "Modal Verbs (Can, Could, Must, Should, etc. for Ability, Permission, Advice)",
+    "dataSet": "can could must should would may might shall will ought to need dare used to had better have to She can speak four languages When I was younger, I could run very fast You may leave early today It might rain later  He will be able to solve it with practice  Are we allowed to park here? Shall we begin the meeting? You should drink more water He ought to take a break",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 17 (W)",
+    "description": "Reported Speech (Transforming Statements, Questions, and Commands)",
+    "dataSet": "She said, 'I am tired' She said that she was tired. He said I am busy He said that he was busy. They said We are going They said that they were going. She said I will help She said that she would help. I said I have finished I said that I had finished. He said I can drive He said that he could drive. She said I was waiting. She said that she had been waiting.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 18 (W)",
+    "description": "Gerunds and Infinitives (As Subjects, Objects, After Verbs)",
+    "dataSet": "Running is fun I like to read He enjoys swimming Reading helps you learn They prefer to eat early She avoided talking to him He decided to leave early Swimming makes me happy We hope to visit soon He suggested going for a walk I plan to study tonight Dancing improves flexibility She loves to sing He finished writing the report They agreed to help us I dislike waiting in long lines",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 19 (W)",
+    "description": "Clauses (Independent, Dependent, Relative, Adverbial)",
+    "dataSet": "I know that she is coming This is the book that I read She said that he was right I don’t know where he went I will come if it doesn’t rain He stayed home because he was sick I met the boy who won the race This is the place where we met I remember what you told me Although she was tired she kept working He works hard so that he can succeed The man who called you is my uncle",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 20 (W)",
+    "description": "Phrasal Verbs (Common Phrasal Verbs and Their Meanings)",
+    "dataSet": "get up turn on pick up give up put off look after run out take off come in go out find out set up break down carry on call off check in check out look for take up get along bring up point out hang out hold on turn off give in make up go on back up come across get over work out take care of put on get by move on fill out hand in cut off turn down show up go ahead pass out",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 21 (L)",
+    "description": "Comparatives and Superlatives (With Irregular Forms)",
+    "dataSet": "bigger better more interesting the best the worst taller tallest smaller smallest faster fastest slower slowest happier happiest earlier earliest later latest richer richest poorer poorest stronger strongest weaker weakest more beautiful most beautiful more difficult most difficult more useful most useful less interesting least interesting more expensive most expensive",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 22 (L)",
+    "description": "Reflexive Pronouns (Myself, Yourself, etc. for Emphasis and Actions)",
+    "dataSet": "myself yourself himself herself itself ourselves themselves I cut myself while cooking Did you hurt yourself? He blamed himself for the mistake She taught herself to paint The cat cleaned itself We prepared ourselves for the exam You should be proud of yourselves They introduced themselves at the meeting I’ll do it myself She herself admitted the mistake We built this house ourselves",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 23 (L)",
+    "description": "Indefinite Pronouns (Anyone, Everything, Someone, etc.)",
+    "dataSet": "anyone everything someone nothing everything anybody somebody nobody everybody anything something nothing each either neither all some none many few several one both most much little others another whoever whatever whichever whichever one whoever else wherever whenever Each of the students received a certificate One must always be honest",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 24 (L)",
+    "description": "Word Order in Questions (Forming Yes/No and WH- Questions)",
+    "dataSet": "Where are you? What do you want? Are you coming? Do you like pizza? Can she swim? Will they arrive soon? Is he your brother? Have you finished? Did he call you? What are they doing? Where is she going? When will it start? Why did you leave? How does it work? Who is at the door? Which one do you prefer? Whose bag is this? How much does it cost? How long will it take?",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 25 (L)",
+    "description": "Adverbial Phrases (Time, Place, Manner)",
+    "dataSet": "in the morning at the park quickly very well after a while before sunset during the night every weekend from time to time at noon in a few minutes later in the afternoon at the bus stop on the roof near the lake inside the building across the hall by the fireplace in the distance with a smile in a low voice with great effort like a champion with excitement without delay",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 26 (R)",
+    "description": "Conjunctions (Coordinating, Subordinating, Correlative)",
+    "dataSet": "and but or although because if and but or nor for so yet although because since unless until when while as as if as though even though even if before after once in case so that though whereas where wherever whether also whether provided that assuming that now that than that lest even when only if even as by the time as long as the moment that as far as",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 27 (R)",
+    "description": "Prepositional Phrases (Location, Direction, Time)",
+    "dataSet": "in the park on the table at noon to the store under the bed over the bridge behind the door near the lake inside the house outside the building between the trees across the road by the fireplace beside the car in front of the school at the bus stop into the room onto the stage off the shelf from the kitchen toward the station past the post office along the river",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 28 (R)",
+    "description": "Inversion in Sentences (For Questions, Negative Adverbials, etc.)",
+    "dataSet": "Never have I seen such a beautiful place Rarely does he arrive on time Seldom do we witness such events Hardly had I entered the room when it started raining Scarcely had she left when they arrived No sooner had he spoken than she interrupted Not only did he win the race but he also broke the record At no time did they admit their mistake Under no circumstances",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 29 (R)",
+    "description": "Noun Phrases (Building Phrases with Determiners, Adjectives, Nouns)",
+    "dataSet": "the big house a small dog many books an old castle the red car some fresh apples a noisy classroom this beautiful garden those heavy bags each new idea several bright stars a delicious cake the broken window that tall building my favorite movie our little puppy their new project a long journey her elegant dress his latest book every exciting match",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 30 (R)",
+    "description": "Comparative and Superlative Adjectives (With Regular and Irregular Forms)",
+    "dataSet": "better best taller tallest more expensive faster fastest slower slowest stronger strongest weaker weakest colder coldest warmer warmest brighter brightest darker darkest earlier earliest later latest happier happiest sadder saddest bigger biggest smaller smallest richer richest poorer poorest most beautiful least interesting most careful more powerful worse farthest ",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 31 (R)",
+    "description": "Understanding Idioms from Various Cultures (with Meanings)",
+    "dataSet": "Break the ice – start a conversation. Spill the beans – reveal a secret. Hit the sack – go to sleep. Bite the bullet – face something unpleasant. Throw in the towel – give up. Once in a blue moon – rarely. Kill two birds with one stone – solve two problems at once. Under the weather – feeling sick. Cost an arm and a leg – Very expensive Break a leg – Good luck.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 32 (R)",
+    "description": "Distinguishing Between Factual Statements and Personal Opinions",
+    "dataSet": "The Earth revolves around the Sun. Chocolate is the best dessert. Water boils at 100 degrees Celsius. She is the most talented singer. There are seven continents. Summer is more enjoyable than winter. Humans need oxygen to live. Football is better than cricket. Light travels faster than sound. Water freezes at 0 degrees Celsius. The human body has 206 bones.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 33 (R)",
+    "description": "Grammar Maze (Escape Room Style)",
+    "dataSet": "The key is under the mat, isn’t it? Solve this: He __ to school every day. (go/goes) → goes. Find the error: She don’t like apples. → doesn’t. Unlock the next clue: If I were rich, I __ travel the world. (would/will) → would. Which is correct? She has went / She has gone → has gone. Rearrange: door/opened/he/the→He opened the door. Choose the correct preposition: She hid __ the curtain. (behind/beneath)→behind.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 34 (R)",
+    "description": "Confusing Word Pairs (Commonly Misused Words)",
+    "dataSet": "affect – to influence : effect – a result. lay – to put something down : lie – to recline. accept – to receive : except – to exclude. than – comparison : then – time/order. its – possessive : it’s – it is. your – possessive : you’re – you are. lose – to misplace : loose – not tight. farther – physical distance : further – abstract distance. advice – a suggestion : advise – to give advice.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 35 (R)",
+    "description": "Punctuation Mastery (Semicolons, Colons, Em Dashes, Quotation Marks)",
+    "dataSet": "I wanted to go for a walk; however, it started raining. He has lived in Paris, France; Berlin, Germany; and Tokyo, Japan. She had one wish: to travel the world. Bring the essentials: a flashlight, water, and a map. He was certain of one thing — he would not give up. The truth — as painful as it was — had to be spoken. She said, “I’ll meet you at 5 p.m.” “Honesty,” he said, “is the best policy.”",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 36 (R)",
+    "description": "Silent Letters and Homophones",
+    "dataSet": "knight–a warrior:night–time of darkness. write–to form letters:right–correct or direction. know–to be aware:no–opposite of yes. scent–smell:sent–past of send. brake–stop a vehicle:break–to shatter. hour–60 minutes:our–belonging to us. see–to look:sea–large body of water. flour–for baking:flower–plant bloom. sun–star in the sky:son–male child.",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 37 (R)",
+    "description": "Word Formation (Prefixes and Suffixes)",
+    "dataSet": "unhappy redo careless kindness misunderstanding hopeful truthful impossible disagreement writer readable readable unknown dislike misbehave inactive nonstop invisible imperfect preheat overreact rewrite graceful slowly enjoyable artist creative personal movement dangerous reusable unlovable disorganized reinforcement unbelievable disrespectful",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 38 (R)",
+    "description": "Word Families (Root + Prefix/Suffix)",
+    "dataSet": "act action active activity actor react enact govern government governor governed agreeable disagree agreement beauty beautiful beautify strong strength strengthen stronghold create creation creator creative recreate education educate educator educated help helpful helpless unhelpful friend friendly friendship unfriendly use useful useless usage reuse",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 39 (R)",
+    "description": "Transitions and Linking Devices",
+    "dataSet": "furthermore however therefore on the other hand give me apart from these moreover in addition also not only that what's more as well besides that too even though nevertheless yet still in contrast despite that conversely instead hence thus accordingly afterwards finally eventually meanwhile subsequently especially notably indeed overall to wrap up",
+    "unlocked": false
+  },
+  {
+    "title": "Gamma 40 (R)",
+    "description": "Learn when to capitalize letters (proper nouns, titles, beginning of sentences).",
+    "dataSet": "I went to Paris He read Harry Potter My friend John is here Monday is the first day We had dinner with Aunt Maria They traveled to South Africa in July I’m reading The Jungle Book this week Mr Thompson is our math teacher My cousin lives near Lake Michigan The Prime Minister visited India We visited the Statue of Liberty She works at Google in San Francisco.",
+    "unlocked": false
+  }
+]

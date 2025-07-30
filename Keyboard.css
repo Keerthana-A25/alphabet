@@ -1,0 +1,106 @@
+.keyboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+  gap: 10px;
+  max-width: 700px; 
+  margin: 0 auto; 
+  padding: 10px;
+}
+
+/* Base key styling */
+.key {
+  width: 100%;
+  aspect-ratio: 1 / 1; /* Keeps keys square */
+  background-color: #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  user-select: none;
+}
+
+/* Highlighted key styling */
+.key.highlighted {
+  background-color: #ffeb3b; /* Highlight color */
+}
+
+/* Blinking effect */
+@keyframes blink {
+  0% {
+    background-color: #FF000055;
+  }
+  50% {
+    background-color: #FF000000;
+  }
+  100% {
+    background-color: #FF000055;
+  }
+}
+
+.blinking {
+  animation: blink 1s infinite;
+}
+
+/* Special keys styling (example for Space and Enter) */
+.key.space {
+  grid-column: span 5;
+  aspect-ratio: auto;
+  width: 100%;
+}
+
+.key.enter {
+  grid-column: span 2;
+  background-color: #c0c0c0;
+  aspect-ratio: auto;
+}
+
+/* Media Queries to adjust grid for smaller screens */
+
+@media (max-width: 768px) {
+  .keyboard {
+    grid-template-columns: repeat(auto-fit, minmax(35px, 1fr));
+    max-width: 500px;
+  }
+
+  .key {
+    font-size: 16px;
+  }
+
+  .key.space {
+    grid-column: span 4;
+  }
+
+  .key.enter {
+    grid-column: span 2;
+  }
+}
+
+/* New range: Between 481px and 600px */
+@media (max-width: 600px) and (min-width: 481px) {
+  .key {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .keyboard {
+    grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+    max-width: 100%;
+  }
+
+  .key {
+    font-size: 14px;
+    padding: 10px; 
+  }
+
+  .key.space {
+    grid-column: span 3;
+  }
+
+  .key.enter {
+    grid-column: span 2;
+  }
+}

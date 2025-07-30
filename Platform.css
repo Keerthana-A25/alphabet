@@ -1,0 +1,156 @@
+/* Ensure platform-container always has enough width for 6 lines of text */
+#platform-container {
+  min-width: 350px;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+@media (max-width: 500px) {
+  #platform-container {
+    min-width: 220px;
+    max-width: 100vw;
+  }
+  .font-size {
+    font-size: 1.2rem;
+  }
+}
+@media (min-width: 501px) and (max-width: 900px) {
+  #platform-container {
+    min-width: 280px;
+    max-width: 95vw;
+  }
+  .font-size {
+    font-size: 1.5rem;
+  }
+}
+@media (min-width: 901px) and (max-width: 1200px) {
+  #platform-container {
+    min-width: 350px;
+    max-width: 800px;
+  }
+  .font-size {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 1201px) and (max-width: 1600px) {
+  #platform-container {
+    min-width: 420px;
+    max-width: 900px;
+  }
+  .font-size {
+    font-size: 2.5rem;
+  }
+}
+@media (min-width: 1601px) {
+  #platform-container {
+    min-width: 480px;
+    max-width: 1100px;
+  }
+  .font-size {
+    font-size: 3rem;
+  }
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes cursorblink {
+  0%, 100% {
+    border-bottom: 2px solid red;
+  }
+  50% {
+    border-bottom: 2px solid transparent;
+  }
+}
+
+/* Responsive font size for all screens */
+.font-size {
+  font-size: 1.8rem;
+}
+
+@media (max-width: 500px) {
+  .font-size {
+    font-size: 1.2rem;
+  }
+}
+@media (min-width: 501px) and (max-width: 900px) {
+  .font-size {
+    font-size: 1.5rem;
+  }
+}
+@media (min-width: 901px) and (max-width: 1200px) {
+  .font-size {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 1201px) and (max-width: 1600px) {
+  .font-size {
+    font-size: 1.8rem;
+  }
+}
+@media (min-width: 1601px) {
+  .font-size {
+    font-size: 2.235rem;
+  }
+}
+
+.blinking-border {
+  animation: cursorblink 1s infinite;
+}
+
+.back-button {
+  background-color: #333; /* White background */
+  color: #333; /* Dark text */
+  border: 2px solid #333; /* Light gray border */
+  border-radius: 50%; /* Makes the button circular */
+  width: 32px; /* Button width */
+  height: 32px; /* Button height */
+  display: flex; /* Flexbox to center the text */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  font-size: 14px; /* Text size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+.back-button:hover {
+  background-color: orange; /* Light gray on hover */
+  transform: scale(1.1); /* Slightly scale the button for effect */
+}
+

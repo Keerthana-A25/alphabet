@@ -1,0 +1,242 @@
+[
+  {
+    "title": "Alpha 1",
+    "description": "Practice on ASDF & ;LKJ",
+    "dataSet": "asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj asdf ;lkj",
+    "unlocked": true
+  },
+  {
+    "title": "Alpha 2",
+    "description": "Practice on ASDF",
+    "dataSet": "a s d f aa ss dd ff aaa sss ddd fff asdf asfd afds afsd adfs adsf sasd safd sdfs sdaf sfad sfda dasf dfas dfsa fdas fdsa fasd fads add aff ass sdd sff saa dff daa dss faa fss fdd aasd asdd afsd asff assd asdfd adfd adfsd adsff adsfs afdds afsdf afdaf safds safda safdd safaf sdafs sdfad sdffd sdfaa sfads sfaas sfaff sfdda sfdfd dasfd dasaf dasff daffd dfasd dfaaf dfaff dfdas dffsd fadas",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 3",
+    "description": "Practice on ;LKJ",
+    "dataSet": "; l k j ;; ;l ;k ;j ll kk jj ;;l ;;k ;;j ;;lk ;;lj ;;kj ;;jl ;;jk ;;lkj ;;ljk ;;klj ;;kjl ;;jlk ;;jkl ;l;k ;k;j ;j;l ;lk; ;lj; ;kl; ;kj; ;jk; ;jl; ;lkj; ;ljk; ;klj; ;kjl; ;jlk; ;jkl l;; k;; j;; l;k l;j k;l k;j j;l j;k ;;lk ;;lj ;;kl ;;kj ;;jl ;;jk ;;lkj ;;ljk ;;klj ;;kjl ;;jlk ;;jkl l;;k;; l;;j;; k;;l;; k;;j;; j;;l;; j;;k;; l;;k;;j;; k;;l;;j;; ;;lkjl ;;ljkl ;;kljl ;;kjlk ;;jlkj ;;jklk ;;lkj;; ;;ljk;; ;;klj;; ;;kjl;; ;;jlk;; ;;jkl;; ;l;k;j ;j;l;k ;k;j;l ;l;j;k ;k;l;j ;j;k;l lkjl ljkl kljl kjlk jlkj jklk lkjkl kjlkj lk;; lj;; kl;; kj;; jk;; jl;; lkj;; ljk;; klj;; kjl;; jlk;; jkl;; ;;lkjlk ;;ljklk ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 4",
+    "description": "Practice ASDF:LKJ",
+    "dataSet": "as; ;as sd; ;sd df; ;df fa; ;fa sa; ;sa ad; ;ad ds; ;ds sf; ;sf fs; ;fs da; ;da lj; ;lj jk; ;jk kl; ;kl jl; ;jl lk; ;lk kj; ;kj asd; ;asd sdf; ;sdf dfa; ;dfa fas; ;fas sad; ;sad ads; ;ads dfs; ;dfs sfd; ;sfd fds; ;fds fda; ;fda lkj; ;lkj jkl; ;jkl klj; ;klj ljk; ;ljk jlk; ;jlk kjl; ;kjl k;j; ;k;j l;j; ;l;j d;j; ;d;j asdf; ;asdf sdaf; ;sdaf dfas; ;dfas fasd; ;fasd sadf; ;sadf adsf; ;adsf sdfs; ;sdfs fdsa; ;fdsa sfda; ;sfda dasf; ;dasf ljkl; ;ljkl jkkl; ;jkkl kljl; ;kljl ljkj; ;ljkj",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 5",
+    "description": "Practice AQAZ & ;P;/",
+    "dataSet": "a q a z ; p ; / aq az qa za ;p ;/ aqz ;p/ qaz qazq qazaq p;/;p p;p ;p;/p /;p;/ ;;pp// ;//p;p aq az qa za ;p ;/ aqz ;p/ qaz qazq qazaq p;/;p p;p ;p;/p /;p;/ ;;pp// ;//p;p aqza; /p qa;;p ;;p ;/azq ;;pp// p;p qazaq ;//p ;;pp qza ;/;aqz; ;p ;/;;aqza ;p;/ ;;pp;;p qza ;//p ;/aqz ;/p ;p;;//;p aqza ;/p p;;aqz //;p p;/p ;qazq //p;;/ ;p ;/qza ;//p ;;pp p;p qzaq p;;p ;p /;qz;;p ;;pp// ;p qza ;/p aqza ;p;;;// qza ;;p p;/ aqz;;/ ;/p ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 6",
+    "description": "Practice AQAZ",
+    "dataSet": "aq az qa za qq aa zz zza aqq zqa qaa zzz aqqa zzaq azza qaaz aqz aqqz zza qqza azz aqzz qaza zqqa azzaa zzaqq aazzq qqaza zzaqz azzqa qaaqa zzzza zzaqa aqazz zqaaz qaqqa azzaaq qzzaq qqaaz aqqzz zzaqza zzzaqz qqazz qazzaq azzzqa aqazqa azqqza qzaqzz azqaqq qaaqqa zzzqa aqqzaz zzaaqq zzzaqzq qzaqqa azqzza azzaqa zzaqqa qzaqzz zzaqqqa zzqaaz",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 7",
+    "description": "Practice ;P;/",
+    "dataSet": ";p ;/ p/ ;p ;; pp ;p; ;;/ p;/ ;/; p;; ;;p ;p/ ;/p ;p; ;// pp; ;;/ p/p ;;/; ;//; ;/;; ;;/p ;p;; p;/; ;//p ;p;; ;;// ;p;/ ;/pp ;;/p ;;pp ;/// ;;p/ ;p// ;/;; pp// ;;/; ;/;/ ;p/p ;///p ;p/; ;//p ;;p;; ;p/; ;/;/p ;p//p ;///p ;;/pp ;p//; ;/;/;; ;/;p ;;p; ;///; ;/;p ;;/p; ;;// ;p//; ;p;/; ;//;; ;/p/ ;p;;/ ;;/p ;p;/p ;///pp ;;/;; ;//p; ;;//p ;p;;p ;;/;/ ;p/// ;p//p ;//;; ;p/;; ;/pp/ ;;/// ;//p/ ;p;/;; ;/;/p/ ;///;; ;;ppp ;;//; ;/;/;; ;p;/;p ;;///p ;p;/;/ ;///;/ ;p/;;p ;p//;; ;/;p;/ ;;p// ;/;/;/ ;p///p ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 8",
+    "description": "Practice AQAZ;P;/",
+    "dataSet": ";a/ p/ ;z aq/ ;z p/ ;a q/ pz/ ;a ;azq/ pza/ ;zq/ aqz/ ;pza ;zq/ ;paz q/ ;aqz /pza pz/qz/ ;azp ;qza/ ;zpq ;pzaq/ azp/ ;pzqz/ ;azqz pzq/z ;zqazp/ ;pzaqz/ aqz/p ;pzqza/ azpqz; pzqza/ qzapz/ zqazp/ ;zq/ ;pqz/ azp/ ;pqa/ azqp/ pzqz/ qzaq/ ;azqz/ ;qzp ;paz/ ;pzqz/ aqz; pza/ qzqz/ ;zqp/ ;aqpz/ ;pqa/ qpz/ ;pzaq/ aqzp/ zqz/ ;paz/ ;zpqz/ zqzp/ ;pqz/ ;azqp ;qzap/ pzqz/ ;pzqa/ azpqz/ ;zqza/ ;pzqz/ aqpz/",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 9",
+    "description": "Practice SWSX & LOL.",
+    "dataSet": "sw sx ws sx lol ol l o.l lol sx ws sw lol sx lol ol ws lol sw sx ws lol sx lol ol ws lol sx ws sw sx lol ol wos. lsw. lol ol sx. wlo. osw. sxlol swsx. swsxw. lolol olsx. sxws swol sxlol ws. lol. oswx. sxlol ws swsx. lolsw. lololws. .lol swxs .l.ol sxws xswx wsxw .ol. l.o swxs sxws .lol xswx wsxw l.o sxws .lol swxs xswx wsxw .lol sxws xswx wsxw .l.o swxs sxws .lol wsxw xswx .ol sxws l.o xswx wsxw .lol",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 10",
+    "description": "Practice SWSX",
+    "dataSet": "sw sx ws xs wsx xsw xws swsx sxsw xsws wsxs xxss wwss xxww swxx sxww wwsx xxsw swsxw xswsx swsxs swssx sxwwx swxxs xswws wxssx swsxws xwsws xswxw sxwsx swsxss xxwsx sxwxx wxsws xwsxs swsxww xswwxx swxxsw sxwssx xxwxs wxsxw swsxxw sxwsw xswsww xxswxw wxsxwx swsxwx xsxwsx wxxssw sxwsxw xswxxs xxwsw wxsxw xxwsxx wswxxs",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 11",
+    "description": "Practice LOL.",
+    "dataSet": "lo l. ol .l o. .o lol .l. l.l o.o .l. .o. lol. .lol ol.o .ol. .olo l.lo lo.l lo. l.o o.l .lo ol. .ol lol. l.l. .lol o.o. .o.l l.o. .ol. l.lol o.lo ol.l l.o.o .lo.l lol.o .lol. ol.o. l.ol. o.l.o l.lo. .o.l. lo.l. lol.l lo.o. o.lol .l.o. l.ol.o .lol.o o.l.o. .o.l.o lol.o lo.l.o o.lol. .l.lo. l.o.l. .lol.l o.o.l .lo.o. .lol.o .ol.l. ol.o.o l.lo.o o.lol.o .l.l.o lo.lol. .o.lol o.ol.l lol.l.o .lo.ol. o.ol.o o.l.l.o .lol.o.l l.ol.o. lo.o.l.o .l.o.l. o.l.ol lol.lo.o .ol.lo.o .lol.lo o.l.o.l .lo.o.l o.ol.lo .lol.o.o ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 12",
+    "description": "Practice SWSXLOL.",
+    "dataSet": "sw. sx. lol. ws. .lol lol. .sx lol. ol. .ws swsx lol. swsx.l lol.s sw.sx sx.sw lol.sw sxl.ol. sw.lol. lol.sx sx.lol wsx.lol ws.lol. swsx.lol sxws.lol lol.swsx lol.sxws sw.lol.sx sx.l.ol. sxl.ol.s swsxlol. swsx.l.ol lol.sw.sx sx.wsl.ol swsl.ol. s.lol.sxws w.sxl.ol swsxl.o.l sxw.l.ol lol.swxs wsx.l.o swsxl.ol wsxl.ol.s lol.s.wsx sx.l.sw wsx.ol sxws.l.ol lol.sx.w wsx.sw.l wsx.lol.s sx.lol.ws lol.swsx.l lol.sx.wsx swsx.l.ol.s",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 13",
+    "description": "Practice DEDC & KIK,",
+    "dataSet": "de dc ec cd ed ki k, ik ,k ,i dec edc cde ik, ,ki i,k edcd cdde eddc cded ddee ccdd deec ceed deec ki,k ikk, ,,ki iik, kki, ,ikk ,,kk ,,ii kkii ii,k k,,i k,,k edck deik ckde ikdc ,kde ki,ec cdki ec,k idec cdek edci cdki,k ic,k de,ki ik,cd ,,kc ,kic cdek,i dki,c cd,ik ,ikc de,ck ed,c,k ide,c eck,d ck,ed de,ecdc cede,c de,cdk d,ecik k,dec ik,,ec k,cd,, ,kki, decc, kk,,i i,ikk ,ik,k k,k,c ,,iik ,,kii kkii,, kki,, k,ikk k,,kc",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 14",
+    "description": "Practice DEDC",
+    "dataSet": "de dc ed cd edc cde dec dce dedc cded edcd decd cedc ecde dced edce cdde decd edcd cdee ecdc dcec cede dedc dede edec dcecd edcde cedec cdecd dedce decde cedcd edced dcedc ecded dedcd cdede eddce cedec dcede ecdce cdeed dedec ecedc dedce decde edced cdeec dcecd ecedd cddec eddcd dcedc ececd cdecd edcdd dedcd ecdce dedec cedce",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 15",
+    "description": "Practice KIK,",
+    "dataSet": "ki k, ik ,k i, ik, ,ki ki, kik i,i ,k, ,i, kik, ,kik iki, i,k, ,ki, ki,k ik,i  kik, ,iki, ,kik, iki,k ki,ik i,ki ,i,k ,k,i kik,i,k,ki iki,i i,iki ,ki,i  ik,ki ,ik,k kik,ki i,kik iki,ki ,kiki ki,iki k,iki ,kik,i iki,k ,kik,ki  i,kik, ki,kik kik,ikii,iki, kik,i,k ,iki,i ,kik,k iki,ki, kik,k,i ,ki,k,i ki,ki, ,kik,i i,iki,k ,k,i,k iki,kik ki,i,k ,k,iki kik,i,i i,k,k,i iki,i,k ,kik,iki ,ki,kik iki,k,i i,kik,i kik,kik ,iki,k,i kik,iki,k iki,kik, ik,kik, ,k,iki, i,ki,k ,iki,kik kik,i,ki ,k,ki,i iki,k,iki ki,kik,ki i,k,iki,k kik,iki,ki",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 16",
+    "description": "Practice DEDCKIK,",
+    "dataSet": "dek dci cd, edk ide kcd ,ec edcd, kiec, iedc, dedc,kik ded,k,ik c,dedkik dedc,ik,k ik,dedck dedkik,c kik,c,ded ded,ck,ik ed,kik,c d,edckik ck,dedik dedk,ik,c ded,c,k,ik kik,edc,k cki,ded,k d,ck,edkik ded,kik,c dedc,k,i,k ed,ck,kik c,ded,kik dedk,c,kik edck,k,ik d,edc,kik d,kik,edc c,dedckik dedc,kik,i kik,c,edck ed,k,ckik ded,ck,k,ik c,dedik,k d,edc,kik dedk,c,k,ik c,dedc,k,ik",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 17",
+    "description": "Practice FRFV & JUJM",
+    "dataSet": "fr fv ju jm rf vf uj mj frv vfr frv fvr rvf jum mju jmu ujm umj frfv jujm vfrf mjuj rrfv uujm vvfr mmju ffrv jjum frvrf frrvf vfvfr frvvf rfvvr vfrfr rvfrvf frvfvr vfrrfv frvrr rfvrr vrfvf fvrvfr frvfvv frvvfr rfvrrv vfrrrv rvfrr frvfrr frrvfr rvfvrf vfrrvv vfrvfr rvfrvv frvvrr fvrvrf vfrrfvr frvrrvf rfvvrfv jumujm jumjmm ujmjmu jmujmj ujmjjum jumujmj jmujmj ujmjum jmujmj jumjmmj jumujmm mjumjm jmjumj ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 18",
+    "description": "Practice FRFV",
+    "dataSet": "fr fv rf vf rv frv vfr fvr rvf frvf vfrf rfvf frvv vfrv rvfr frvrf frrvf vfvfr frvvf rfvvr vfrfr rvfrvf frvfvr vfrrfv frvrr rfvrr vrfvf fvrvfr frvfvv frvvfr rfvrrv vfrrrv rvfrr frvfrr frrvfr rvfvrf vfrrvv vfrvfr rvfrvv frvvrr fvrvrf vfrrfvr frvrrvf rfvvrfv frvrf vfrrvf vfrvrf rvfvrf frvfvr vfrvvf rfvrrv frvfrf rvfrvv frvvrr fvrvrf vfrrfvr frvrrvf rfvvrfv frvfrr vfrrfv rfvfrv frvvfrf fvrvrfv frvfvrf vfrvvfr rfvrrfv frvvrrf fvrvrvf frvfrrf rvfvrfv",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 19",
+    "description": "Practice JUJM",
+    "dataSet": "ju jm uj mj jum mju jmu ujm umj jmj jumj ujju jumuj jumjm mjum ujmj juju jmjm jmjum jumujm jumjmm ujmjmu jmujmj ujmjjum jumujmj jmujmj ujmjum jmujmj jumjmmj jumujmm mjumjm jmjumj ujmjum jumujum jmjmuj jumjjum jmujmum jmujmum ujmjjum jumjmuj mjmjum jumjm jujmum mjmjmu ujmjmm jumujm jumjmj mjmujm ujmjmu jumjmmj jmjumm jmjumjm ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 20",
+    "description": "Practice FRFVJUJM",
+    "dataSet": "frv fvj vju juj ujm rfv fvu vjm jmu frj rju vmj fjv umr mju rvj jvm ujr mfr frvj fvju vjum jujm ujmf rfvj fvjm vjmu jmur frvu frvm fjum ujmr rfvj vfjm jmur ujrv rjmu vjmr frvju fvjum vjujm jujmf ujmfr rfvju fvjmu vjmur jmurv frvjm fjumv ujmrf vjmrf frvjm jmurv vfrjm rfvjm ujmrv jvmrf frjmu frjvm ujmfv vfrju rfvjm fvmju jvmur ujrvm frjuv fvjmr ujmfrv frvmju jmurvf ujmvfr rjmuv vjfru ujrmfv vjmurf",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 21",
+    "description": "Practice FGTGB & JHYHN",
+    "dataSet": "fg tg gb jh hy hn fgt fgb gtb tgb bgt jhy jhn yhn nhy fgtb jhyn ftgb jyhn fbgt jnhy gtfb hytg bfgj tnfh yhnf fghy gjhb tgfb hjyn ngfy tgby fhyt bgtj hnfy jgtn fgtby jhfyn tgfbh gjyhf hytnf bgtjh gjhyn ftnhy gnfyt gtbjh hjngf tgbyh gjtbf fnjhy tgfnj bgtfgh hgjynf tgbjhf fnjyt gfnjt jhfgb bgtjhy gtnfy gjhfyt tgfjyf gjhyfn tnfhgj bgtjyn ghtfjb jhfngy tgfbyh njfgbt fjtnhy gfhjyt tgfjyn ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 22",
+    "description": "Practice FGTGB",
+    "dataSet": "fg tg gb fg fg tg gb ft tg fg fgf tgt gbg ftg gbt fgfg tgtg gbgb fgft tgtg gbft ftgb tgft gbfg ftgf gbtg gbfgf ftgbg tgftg gbftg fgftg tgtfg gbgbf tgtgf gbgfg ftgbgf tgfgbg gbgftg tgtfgf gbfgfg ftgftg gbtftg tgtgbg fgfgfg gbgfgf gbftgf tgtgbgf ftgbtfg tgfgbfg gbfgbtg tgtfgbt fgftgbg gbgbtfg ftgbftg tgtgbgf gbtgftg gbgfgbtg fgbtgf gbtftgb ftgftgb tgfgbfg gbftgfg tgtgbtfg ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 23",
+    "description": "Practice JHYHN",
+    "dataSet": "jh hy hn jh jh hy hn jh hy hn jhj hyh hnh jhjh hyhn hnhy jhyh hyjh hnjh jhhj hyhj hnjn jhjhy hyjhn hnhjh hyhjh hnjnj jhjhj hyhjn hnjhj jhjhn hyjhy hnhhy jhhyn hnjnjh hyjhjh hnhjhn jhjhyn hyhjhy hnjnjh hnjhjh jhjhyh hyhnjh hnhyhn jhjhnj hyjhnj hnjnjhj hyhjhn hnjnjn hyjhjhn hnhjhyj jhjhnjh hyhnhnj hnjnjnj jhhjhn hyjhnjn jhnjhhy jhhyhhn hyjhnjh hnhjhyj jhjhnjhj hyhnhnjn hnjnjhjh",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 24",
+    "description": "Practice FGTGBJHYHN",
+    "dataSet": "fgt fgb jhy jhn ftg juh fbg jnh fgh fgu fgn jhg jht jhb fgy jnb fty juy fbn ftgb jhyn fgbt jyhn fgty jhyt fgtb jhny fgbu jhyf ftnj jhyb fgjh jhnf fgtjn jhft ftgj jyhnf fgbyn ftgh jhyfg fbgjn ftgjy jhnyt fgbyh jhfnb fgbjt jhfyn fgtby jhytb fgtnj jhftb fgtyh jhytn fgjyn fgtjhn jhfybt fgtf jhynf fgbyj jhnyf fgbjt jhynt fgtnf jhyjf ftnjb jhynb fgtjf fgbht jhyfb fgnjy ftnhy jhfgb jhytn fgtjy jhbgn jhfng ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 25",
+    "description": "Practice AZSXDCFV & JMK,L.;/",
+    "dataSet": "az, sx, dc, fv, jm, k,, l., ;/ azs, xdc, cfv, jmk, kl;, ;/, ;lm asx, zsd, dcf, fvj, mjk, l/k, zxds, dfvc, jmk., l;k, ;/azs zsxd, l/k;, ;/azsx, azsxd, xdcfv, fvjm, k,l.;, zsxdv, dfvjm, jk,l., mjkl, zxsd, sdvcf, jmks azsx, dcfv, ;/azsxd, jmk.;, ;/zm,s, zsdvc, ;/lmk, sdvc, ;/fvsd, jmzx sdvcx, azsxj, zdx/s, xdcv, fzmk., ;/jmkx, lmsd, zxvd ;/azsxdx, fzjm, k/sd, zdxm, ;/dfvjm, fvsd, jk,m, ;/asxdv, dcfvs, jmkx, sdvz, km;l, /;azsxj dcfvjm,",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 26",
+    "description": "Practice AQSWDEFR & JUKILO;P",
+    "dataSet": "aq sw de fr ju ki lo ;p aq sw de fr ju ki lo ;p aqw sde frj uki lo; p; as qw we ed fr ju ki ;p aqs wde frj uki lo; p; aqw sde frk jui lop ;p aqsw wdef rjuk ilop ;p swde frju kilo p aq wdef aqswd efrju kilop p qswde frjuk ilope paqs qswde efrju frjuk ilope paqs wdefr aqsw wdefr juki lo;p aqw sde qswde efrju frjuk ilope paqs wdefr aqsw wdefr frjuki lo;p aqw sde frju qswde efrju frjuk ilop paq wdefr",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 27",
+    "description": "Practice Q1W2E3R4 & U7I8O9P0",
+    "dataSet": "q1 w2 e3 r4 u7 i8 o9 p0 q2 w3 e4 r5 u8 i9 o0 p1 q3 w4 e5 r6 u9 i0 o1 p2 q4 w5 e6 r7 u0 i1 o2 p3 q5 w6 e7 r8 u1 i2 o3 p4 q6 w7 e8 r9 u2 i3 o4 p5 q7 w8 e9 r0 u3 i4 o5 p6 q8 w9 e0 r1 u4 i5 o6 p7 q9 w0 e1 r2 u5 i6 o7 p8 q0 w1 e2 r3 u6 i7 o8 p9 q1 w2 e3 r4 u7 i8 o9 p0 q2 w3 e4 r5 u8 i9 o0 p1 q3 w4 e5 r6 u9 i0 o1 p2 q4 w5 e6 r7 u0 i1 o2 p3 q5 w6 e7 r8 u1 i2 o3 p4 q6 12 34 78 90 01",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 28",
+    "description": "Practice FGT5 & JHY6",
+    "dataSet": "fg t5 g5 jh y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 jh y6 h6 5t fg 5g jh 6y h6 fg 5t g5 6y jh h6 fg t5 5g jh 6y h6 fg t5 g5 jh 6y h6 fg t5 g5 jh 6y h6 fg t5 5g 6y h6 fg 5t g5 jh 6y h6 fg t5 5g jh 6y h6 fg t5 g5 jh 6y h6 fg t5 g5 jh 6y h6 fg 5t g5 jh y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 65 y6 h6 fg t5 g5 jh y6 h6 fg t5 g5 56 y6 h6 fg t5 g5",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 29",
+    "description": "Practice ;';/;[;];\\;-;=",
+    "dataSet": ";' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;' ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;] ;\\ ;-' ;= ;'; ;/ ;[ ;]  ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 30",
+    "description": "Practice A-Z & 0-9",
+    "dataSet": "a b c d e f g h i j k l m n o p q r s t u v w x y z 0 1 2 3 4 5 6 7 8 9 ab cd ef gh ij kl mn op qr st uv wx yz 01 23 45 67 89 ac bd eg fh ij km ln op qs rt uv xw yz 02 14 36 58 79 abc def ghi jkl mno pqr stv wxy z01 234 567 890 abc bcd cde def efg fgh ghi hij ijk jkl klm lmn mno nop pqr rst tuv wxy z01 123 234 456 567 678 789 890 012 abcdef ghi123 jkl456 mno789 pqrst01 uvwxyz",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 31",
+    "description": "Practice A-Z & 0-9 Extended",
+    "dataSet": "z y x w v u t s r q p o n m l k j i h g f e d c b a 9 8 7 6 5 4 3 2 1 0 za yb xc wd ve uf tg sh ri qj pk ol nm ml lk kj ji ih hg gf fe ed dc 321 654 987 012 345 678 901 zyx wvu tsr qpo nml kjh gfe dcb abc def uvwxyz 1234567890 abcdefghijklmnopqrstuvwxyz z01 y23 x45 w67 v89 u0a abc def ghi jkl mno pqr stu vwx yza bcd efg hij klm nop qrs tuv wxy za1 yb2 xc3 wd4 ve5 uf6 tg7 sh8 ri9 qj0 ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 32",
+    "description": "Practice lowercase & Operators",
+    "dataSet": "a b c d e f g h i j k l m n o p q r s t u v w x y z + - * / % = ! @ # $ ^ & | < > ? : ~ ab+ cd- ef* gh/ ij% kl= mn! op@ qr# st$ uv^ wx& yz| <> ?: ~a ~b a+b c-d e*f g/h i%j k=l m!n o@p q#r s$t u^v w&x y|z a<b c>d e?f g:h i~j az+ by- cx* dw/ ev% fu= gt! hs@ ir# jq$ kp^ lo& mn| nm< ml> lk? kj: ji~ abc def ghi jkl mno pqr stu vwx yza bcd efg hij klm nop qrs tuv wxy z+!",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 33",
+    "description": "Practice 0-9 & !@#$%^&*()-_=+[]{};:'\",.<>/?\\|~`",
+    "dataSet": "0 1 2 3 4 5 6 7 8 9 ! @ # $ % ^ & * ( ) - _ = + [ ] { } ; : ' \" , . < > / ? \\ | ` ~ 01 23 45 67 89 10 32 54 76 98 00 11 22 33 44 55 66 77 88 99 !@ #$ %^ &* () {} [] <> ;; :: '' \"\" ,, .. // ?? \\\\ || ~~ `` 0! 1@ 2# 3$ 4% 5^ 6& 7* 8( 9) -_ =+ [{ ]} ;: '\" ,< .> /? \\| ~` 123 456 789 098 765 432 210 123 321 456 654 789 987 147 258 369 753 159 357 102 304 506 708 901 213 435 657 879 091 !@# $%^ &*() []{} ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 34",
+    "description": "Practice a-z & 0-9",
+    "dataSet": "acegik moqsuw bdfhjl nprtvz 13579 02468 ab12 cd34 ef56 gh78 ij90 kl12 mn34 op56 qr78 st90 uv12 wx34 yz56 ACEGIK MOQSUW BDFHJL NPRTVZ 10 20 30 40 50 60 70 80 90 100 135 246 357 468 579 680 791 802 913 024 135 246 357 468 579 680 791 az19 by28 cx37 dw46 ev55 fu64 gt73 hs82 ir91 jq00 pk11 rl22 sm33 tn44 uv55 wx66 yz77 az01 by12 cx23 dw34 ev45 fu56",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 35",
+    "description": "Repeat practice with a-z",
+    "dataSet": "a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q  ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 36",
+    "description": "Repeat 0-9 practice",
+    "dataSet": "0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 37",
+    "description": "Combined pattern run",
+    "dataSet": "a1 b2 c3 d4 e5 f6 g7 h8 i9 j0 a2 b4 c6 d8 e0 f1 g3 h5 i7 j9 k0 l1 m2 n3 o4 p5 q6 r7 s8 t9 u0 v1 w2 x3 y4 z5 a3 b5 c7 d9 e1 f2 g4 h6 i8 j0 a1 b3 c5 d7 e9 f0 g2 h4 i6 j8 k9 l0 m1 n2 o3 p4 q5 r6 s7 t8 u9 v0 w1 x2 y3 z4 a5 b7 c9 d1 e2 f3 g5 h7 i0 j2 a4 b6 c8 d0 e3 f5 g6 h8 i1 j3 k4 l5 m6 n7 o8 p9 q0 r1 s2 t3 u4 v5 w6 x7 y8 z9 a1 b2 c3 d4 e5 f6 g7 h8 i9 j0 k1 l2 m3 n4 o5 p6 q7 r8 s9 t0 u1 v2 w3   ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 38",
+    "description": "Two-letter & digit pair drills",
+    "dataSet": "ab12 bc23 cd34 de45 ef56 fg67 gh78 hi89 ij90 jk01 kl12 lm23 mn34 no45 op56 pq67 qr78 rs89 st90 tu01 uv12 vw23 wx34 xy45 yz56 za67 ab78 bc89 cd90 de01 ef12 fg23 gh34 hi45 ij56 jk67 kl78 lm89 mn90 no01 op12 pq23 qr34 rs45 st56 tu67 uv78 vw89 wx90 xy01 yz12 za23 ab34 bc45 cd56 de67 ef78 fg89 gh90 hi01 ij12 jk23 kl34 lm45 mn56 no67 op78 pq89 qr90 rs01 st12 tu23 ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 39",
+    "description": "Random mixed challenges",
+    "dataSet": "ab23 cd45 ef67 gh89 ij01 kl23 mn45 op67 qr89 st01 uv23 wx45 yz67 135abc 246def 357ghi 468jkl 579mno 680pqr 791stu 802vwx 913yza az19 by28 cx37 dw46 ev55 fu64 gt73 hs82 ir91 jq00 pk11 rl22 sm33 tn44 uv55 wx66 yz77 a1b2 c3d4 e5f6 g7h8 i9j0 k1l2 m3n4 o5p6 q7r8 s9t0 u1v2 w3x4 y5z6 abc123 def234 ghi345 jkl456 mno567 pqr678 stu789 vwx890 yza901 a1b2c3d4 ",
+    "unlocked": false
+  },
+  {
+    "title": "Alpha 40",
+    "description": "Master drill: full pattern mix",
+    "dataSet": "abc123 def456 ghi789 jkl012 mno345 pqr678 stu901 vwx234 yz567 zyxwvu tsrqpo nmlkji 987654 321098 0123456789 abcdefghijklmnopqrstuvwxyz 123abc 456def 789ghi 012jkl 345mno 678pqr 901stu 234vwx 567yz  a1b2c3 d4e5f6 g7h8i9 j0k1l2 m3n4o5 p6q7r8 s9t0u1 v2w3x4 y5z6a7 az19 by28 cx37 dw46 ev55 fu64 gt73 hs82 ir91 jq00 pk11 rl22 sm33 tn44",
+    "unlocked": false
+  }
+]

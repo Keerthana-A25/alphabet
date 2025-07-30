@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes cursorblink {
+  0%, 100% {
+    border-bottom: 2px solid red;
+  }
+  50% {
+    border-bottom: 2px solid transparent;
+  }
+}
+
+.blinking-border {
+  animation: cursorblink 1s infinite;
+}
+
+.back-button {
+  background-color: #333; /* White background */
+  color: #333; /* Dark text */
+  border: 2px solid #333; /* Light gray border */
+  border-radius: 50%; /* Makes the button circular */
+  width: 32px; /* Button width */
+  height: 32px; /* Button height */
+  display: flex; /* Flexbox to center the text */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  font-size: 14px; /* Text size */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+.back-button:hover {
+  background-color: orange; /* Light gray on hover */
+  transform: scale(1.1); /* Slightly scale the button for effect */
+}
+

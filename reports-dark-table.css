@@ -1,0 +1,185 @@
+/* Move Speed (WPM) value slightly left */
+.speed-cell {
+  text-align: left !important;
+  padding-left: 0 !important;
+  padding-right: 8px !important;
+  font-weight: 700;
+  color: #fff;
+  background: inherit;
+  z-index: 1;
+}
+/* Custom Reports Table Design */
+.reports-container {
+  padding: 32px 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: transparent;
+}
+.reports-title {
+  font-size: 24px;
+  margin-bottom: 8px;
+  color: #fff;
+}
+.reports-desc {
+  margin-bottom: 24px;
+  color: #e5e7eb;
+}
+.reports-table-wrapper {
+  margin-bottom: 32px;
+  border-radius: 16px;
+  width: 700px;
+  box-shadow: 0 4px 32px 0 rgba(0,0,0,0.10);
+  background: #23272f;
+  max-height: 400px;
+  overflow-y: auto;
+  /* Hide vertical scrollbar but allow scrolling */
+  scrollbar-width: none; /* Firefox */
+}
+/* Hide scrollbar for Webkit browsers */
+.reports-table-wrapper::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+.reports-table-wrapper::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+/* Table: fix header corners and background fill */
+.custom-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 16px;
+  overflow: hidden;
+  background: transparent;
+  /* Remove extra spacing that can break header corners */
+  table-layout: fixed;
+}
+.custom-table thead tr th {
+  background: #FF8200;
+  color: #e5e7eb;
+  font-weight: 500;
+  font-size: 16px;
+  height: 44px;
+  box-shadow: none;
+  text-align: left;
+  padding: 12px 20px;
+  border: none;
+}
+.custom-table thead tr th:first-child {
+  border-top-left-radius: 16px;
+}
+.custom-table thead tr th:last-child {
+  border-top-right-radius: 16px;
+}
+.custom-table tbody tr td {
+  background: #23272f;
+  color: #e5e7eb;
+  font-size: 16px;
+  padding: 12px 20px;
+  border-bottom: 1px solid #181a1f;
+}
+.custom-table tbody tr:nth-child(even) td {
+  background: #1a1d23;
+}
+.custom-table tbody tr:hover td {
+  background: #4b5563;
+}
+.align-right {
+  text-align: left;
+  font-weight: 600;
+}
+.status-complete, .status-incomplete {
+  display: inline-block;
+  min-width: 100px;
+  text-align: left;
+  border-radius: 20px;
+  padding: 6px 0;
+  font-weight: 600;
+  font-size: 15px;
+  margin: 0 auto;
+}
+.status-complete {
+  background-color: #10b981;
+  color: white;
+  box-shadow: 0 2px 8px 0 rgba(16,185,129,0.08);
+}
+.status-incomplete {
+  background-color: #ef4444;
+  color: white;
+  box-shadow: 0 2px 8px 0 rgba(239,68,68,0.08);
+}
+/* Table background and text */
+/* Table background and text */
+.dark-table .ant-table {
+  background: #23272f;
+  color: #e5e7eb;
+  border-radius: 16px;
+  font-size: 16px;
+}
+/* Header in orange */
+/* Header background ICICI orange gradient, font white */
+/* Header background ICICI orange gradient, font white, rounded corners */
+.dark-table .ant-table-thead > tr > th {
+  background: #FF8200;
+  color: #e5e7eb;
+  font-weight: 500;
+  font-size: 16px;
+  height: 44px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  box-shadow: none;
+}
+
+/* Hide vertical scrollbar but allow scrolling */
+/* Hide vertical scrollbar but allow scrolling */
+/* Show vertical scrollbar for table scroll */
+
+/* Reduce row height, more padding for better look */
+.dark-table .ant-table-tbody > tr > td {
+  height: 38px;
+  padding: 8px 0 8px 24px !important;
+  font-size: 16px;
+}
+/* Odd/even row colors */
+.dark-table .ant-table-tbody > tr:nth-child(odd) > td {
+  background: #23272f;
+}
+.dark-table .ant-table-tbody > tr:nth-child(even) > td {
+  background: #1a1d23;
+}
+.dark-table .ant-table-tbody > tr:hover > td {
+  background: #4b5563;
+}
+.dark-table .ant-table-cell {
+  border-color: #181a1f;
+}
+/* Status pill buttons, consistent size and look */
+.status-complete, .status-incomplete {
+  display: inline-block;
+  min-width: 100px;
+  text-align: center;
+  background-color: #10b981;
+  color: white;
+  border-radius: 20px;
+  padding: 6px 0;
+  font-weight: 600;
+  font-size: 15px;
+  box-shadow: 0 2px 8px 0 rgba(16,185,129,0.08);
+  margin: 0 auto;
+}
+.status-incomplete {
+  background-color: #ef4444;
+  box-shadow: 0 2px 8px 0 rgba(239,68,68,0.08);
+}
+
+/* Remove table borders for a clean look */
+.no-borders .ant-table,
+.no-borders .ant-table-thead > tr > th,
+.no-borders .ant-table-tbody > tr > td,
+.no-borders .ant-table-cell {
+  border: none !important;
+  box-shadow: none !important;
+}
+
